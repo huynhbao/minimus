@@ -1,5 +1,6 @@
 export const environment = {
   production: true,
+  appID_OWM: "95b04f098ee7709a620354e26218d932",
   config: {
     apiKey: "AIzaSyB-MFP8032_sS3zKTq75A0OjuaObpAwDfo",
     authDomain: "minimus-4d4e9.firebaseapp.com",
